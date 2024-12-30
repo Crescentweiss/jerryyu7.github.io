@@ -70,10 +70,10 @@ Teaching Experience
 
 Awards & Honors
 =====
-Luddy Doctoral Summer Fellowship, Indiana University (09/2024)
-Graduate Scholarships, University of Chinese Academy of Sciences (2021-2023)
-Merit Student Award, University of Chinese Academy of Sciences (05/2021)
-Outstanding Graduation Design, University of Science and Technology of China (05/2020)
-Silver Prize, Software Group in the IGEM Competition (10/2018)
-Outstanding Leader, Student Union, University of Science and Technology of China (10/2019)
-Feel free to reach out to me if you are interested in discussing potential collaborations, my research, or any questions related to high-performance computing and microelectronics.
+* Luddy Doctoral Summer Fellowship, Indiana University (09/2024)
+* Graduate Scholarships, University of Chinese Academy of Sciences (2021-2023)
+* Merit Student Award, University of Chinese Academy of Sciences (05/2021)
+* Outstanding Graduation Design, University of Science and Technology of China (05/2020)
+* Silver Prize, Software Group in the IGEM Competition (10/2018)
+* Outstanding Leader, Student Union, University of Science and Technology of China (10/2019)
+* Feel free to reach out to me if you are interested in discussing potential collaborations, my research, or any questions related to high-performance computing and microelectronics.
