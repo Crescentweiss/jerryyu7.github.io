@@ -1,10 +1,8 @@
 ---
-permalink: /
-title: "Zihao's personal website"
+layout: archive
+title: "Current Project"
+permalink: /project/
 author_profile: true
-redirect_from: 
-  - /project/
-  - /project.html
 ---
 
 {% include base_path %} 
