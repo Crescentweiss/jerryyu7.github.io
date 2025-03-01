@@ -22,6 +22,10 @@ Education
 Research Experience
 ======
 * 08/2024-present: Research Assistant
+  * Analog Simulation for a Novel Machine Learning Design
+    * Indiana University Bloomington
+    * Duties includes: Leveraging the natural evolution of dynamical systems toward their optimal steady energy state- a property that can be harnessed to solve optimization problems. We designed a specialized analog circuit to accelerate both training and inference processes. To validate our initial design, we used capacitors and resistors to represent nodes and weights, connecting them via a dedicated circuit. In simulation, the system evolved to a final state that served as the inference result in the prototype.
+
   * Implementation onto FPGA for Scaling Data Compression Algorithm
     * Indiana University Bloomington
     * Duties includes: SZ compression algorithm is a lossy compression algorithm used for large data storage and communication. We designed an innovative algorithm in quantized stage to improve the parallelism for SZ3.0 compression algorithm, where a special architecture is designed to implement this improved algorithm on FPGA. As a result, a prototype as this initial feasibility architecture is verified.
