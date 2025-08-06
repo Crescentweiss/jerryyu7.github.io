@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publication/
 
-  - title: "Current Project"
-    url: /project/
+  # - title: "Current Project"
+  #   url: /project/
 
   - title: "Research Experience"
     url: /research/
@@ -23,8 +23,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/

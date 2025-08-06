@@ -22,8 +22,17 @@ Education
 Research Experience
 ======
 * 08/2024-present: Research Assistant
-  * Analog Simulation for a Novel Machine Learning Design
+
+  * Design a Novel compression algorithm for improving distributed GNN training process
     * Indiana University Bloomington
+    * Duties includes: Worked on developing a communication-efficient compression algorithm to accelerate distributed Graph Neural Network (GNN) training. Focused on reducing communication overhead during feature and gradient exchange across nodes, while maintaining model accuracy. Contributed to algorithm design, performance analysis, and validation on large-scale GNN benchmarks.
+
+  * Design CXL-based system for cost-efficient multi-LoRA serving
+    * University of California, San Diego
+    * Helped profile GPU performance under multi-LoRA inference workloads and identified key bottlenecks to support system-level optimization. Created visualizations of memory and compute utilization patterns to assist in the design of a CXL-enabled architecture for large-scale, cost-efficient LLM inference.
+
+  * Analog Simulation for a Novel Machine Learning Design
+    * University of Rochester
     * Duties includes: Leveraging the natural evolution of dynamical systems toward their optimal steady energy state- a property that can be harnessed to solve optimization problems. We designed a specialized analog circuit to accelerate both training and inference processes. To validate our initial design, we used capacitors and resistors to represent nodes and weights, connecting them via a dedicated circuit. In simulation, the system evolved to a final state that served as the inference result in the prototype.
 
   * Implementation onto FPGA for Scaling Data Compression Algorithm
