@@ -11,11 +11,11 @@ redirect_from:
 
 About Me
 =====
-I am currently a Ph.D. student in High-performance Computing at Indiana University, focusing on computer science and engineering. My research interests include FPGA architecture, compression algorithms, and the development of GNN hardware acceleration. I am ambitious in combination of software algorithm and hardware architecture for realization of an innovative applicationn, based on my plenty of experiences in embedded system.
+I am currently a Ph.D. student in Intelligent System Engineering at Indiana University, focusing on computer science and engineering. My research interests include FPGA architecture, compression algorithms, and the development of GNN hardware acceleration. I am ambitious in combination of software algorithm and hardware architecture for realization of an innovative applicationn, based on my plenty of experiences in embedded system.
 
 Education
 ======
-* Ph.D in Computer Engineering, Indiana University, 2029 (expected)
+* Ph.D student in Computer Engineering, Indiana University
 * M.S. in Microelectronics and Solid-State Electronics, University of Chinese Academy of Sciences, 2023
 * B.S. in Automation, University of Science and Technology of China, 2020
 
